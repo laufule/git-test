@@ -4,5 +4,4 @@ public:
     UnClock() { }
     ~UnClock() { }
 private:
-    //******
 };
