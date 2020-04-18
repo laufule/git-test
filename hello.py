@@ -2,5 +2,7 @@
 print("Hello world.")
 print("over")
 a = input("Please input a number: ")
-print("The number you input is " + a ".")
+print("The number you input is " + str(a) ".")
+
+print("---end---")
 
