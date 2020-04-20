@@ -1,8 +1,10 @@
-# print -> hello world
-print("Hello world.")
-print("over")
-a = input("Please input a number: ")
-print("The number you input is " + str(a) ".")
-
-print("---end---")
+# Basic exercises
+# Hello world
+message = "Hello world."
+print("message :")
+print(message)
+print("message.index('e') :")
+print(message.index('e'))
+print("message[0] :")
+print(message[0])
 
