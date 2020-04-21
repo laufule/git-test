@@ -21,7 +21,13 @@ print(message.lower())
 
 first_name = "liu"
 last_name = "fule"
+age = 24
 full_name = first_name + " " + last_name
-message = "Hello " + full_name.title() + "."
+message = "Hello "+full_name.title() + ". You are " + str(age) + "years old"
 print(message)
+print("rm spect:")
+print(message.strip())
+
+#lint feed
+print("Language: \n\tPython\n\tC++\n\tJava")
 
