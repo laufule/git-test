@@ -1,5 +1,5 @@
 # git-test
-just make some test for this account.
+Just make some test for this account.
 
-test for python program.
+Test for python program.
 
