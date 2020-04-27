@@ -1,4 +1,5 @@
 # loops
+
 # 1.while()
 print("--- first loop begin ---")
 num = 1
