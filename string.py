@@ -1,6 +1,6 @@
 #text for string
 myStr = "fule"
-myWord = "Hello"
-message = myWord + " "  + myStr.upper() + "."
+myWord = "good afternoon"
+message = myWord.title() + " "  + myStr.upper() + "."
 print(message)
 
